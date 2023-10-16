@@ -1,6 +1,6 @@
 # Hello Jupyter
 
-> try [Jupiter](https://jupyter.org/)
+> try [Jupyter](https://jupyter.org/)
 
 ## Requirements
 
